@@ -1,5 +1,5 @@
 _repo: The-Song-of-Roland_391
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Chanson de Roland. English
 contributor:
   translator:
@@ -9,6 +9,9 @@ contributor:
     deathdate: 1930
     gutenberg_agent_id: '217'
     url: http://www.gutenberg.org/2009/agents/217
+covers:
+- cover_type: generated
+  image_path: cover.png
 description: "The Song of Roland (French: La Chanson de Roland) is an epic poem based\
   \ on the Battle of Roncevaux in 778, during the reign of Charlemagne. It is the\
   \ oldest surviving major work of French literature and exists in various manuscript\
@@ -19,6 +22,8 @@ description: "The Song of Roland (French: La Chanson de Roland) is an epic poem 
   \ poem is the first and, along with The Poem of the Cid, one of the most outstanding\
   \ examples of the chanson de geste, a literary form that flourished between the\
   \ 11th and 15th centuries and celebrated legendary deeds.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/391#The-Song-of-Roland
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
 identifiers:
